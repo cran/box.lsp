@@ -1,0 +1,17 @@
+3484b8d0d6d8f64a85e6beeee88c3755 *DESCRIPTION
+bf3b637506fd80bf15313ff0b340d5b7 *NAMESPACE
+6fb7ee4a3741f8d384f6388a05af295b *NEWS.md
+cc6973fefcb507de2fe1fef3bff06f71 *R/box_lsp.R
+caafc543243f1622fa3c0a18fdeb5895 *R/utils.R
+ad0016a2db675a54e110d7e71609ae4a *README.md
+afc43d0321d680c6549ecee8978b1a9c *inst/Rprofile.R
+588a0bdc3bd51f61549da726ad9e72fe *man/box_use_parser.Rd
+d9b3962e1a8a88b7a3051bc059043215 *man/figures/box.lsp_in_action.gif
+c742fcc9c67d3c91ac0c5d2f089c8221 *man/use_box_lsp.Rd
+714cefd84f01f70569386a4eb68212ef *tests/testthat.R
+eec54d4dfc4382ac5e9c0eebebb98bc4 *tests/testthat/helper-utils.R
+8e96e7af1100647acdc05e5569fb2635 *tests/testthat/test-lsp_aaa_regression.R
+8ad198f2278aa76d2ee6ec5867b57658 *tests/testthat/test-lsp_completion_package_attach_list.R
+b7359bfb42fc6c84f47aff52c07ed56e *tests/testthat/test-lsp_completion_package_three_dots.R
+e7dc8b8608084bc829f87532c19d8663 *tests/testthat/test-lsp_completion_whole_package.R
+0e5080b4785ac7e30a95ee00c5198e00 *tests/testthat/test-signature.R
