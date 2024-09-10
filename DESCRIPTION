@@ -1,6 +1,6 @@
 Package: box.lsp
 Title: Provides 'box' Compatibility for 'languageserver'
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
   c(
     person("Ricardo Rodrigo", "Basa", role = c("aut", "cre"), email = "opensource+rodrigo@appsilon.com"),
@@ -19,11 +19,11 @@ Suggests: languageserver, lintr, magrittr, mockery, purrr, rprojroot,
         stringi, stringr, testthat (>= 3.0.0), withr
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-08-28 13:07:05 UTC; kuba
+Packaged: 2024-09-10 09:46:11 UTC; kuba
 Author: Ricardo Rodrigo Basa [aut, cre],
   Pavel Demin [aut],
   Jakub Nowicki [aut],
   Appsilon Sp. z o.o. [cph]
 Maintainer: Ricardo Rodrigo Basa <opensource+rodrigo@appsilon.com>
 Repository: CRAN
-Date/Publication: 2024-09-02 21:40:19 UTC
+Date/Publication: 2024-09-10 10:00:17 UTC
