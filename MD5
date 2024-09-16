@@ -1,9 +1,9 @@
-7d0afcc2f8d6110e6a2755959675319f *DESCRIPTION
+216e28dd9ac7288969a1fa6e65b3b562 *DESCRIPTION
 bf3b637506fd80bf15313ff0b340d5b7 *NAMESPACE
-233330acbc033e347522b5413fdab45b *NEWS.md
-cc6973fefcb507de2fe1fef3bff06f71 *R/box_lsp.R
+7ea9501248f0a9e38418b0727edf5176 *NEWS.md
+8794d41e55d35734dc1db6f5f769acdd *R/box_lsp.R
 caafc543243f1622fa3c0a18fdeb5895 *R/utils.R
-95745ff7c043aaf66a8e1075661b739d *README.md
+071cb189d0aafaf47bbd7441841a245b *README.md
 afc43d0321d680c6549ecee8978b1a9c *inst/Rprofile.R
 588a0bdc3bd51f61549da726ad9e72fe *man/box_use_parser.Rd
 d9b3962e1a8a88b7a3051bc059043215 *man/figures/box.lsp_in_action.gif
