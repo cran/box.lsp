@@ -1,10 +1,10 @@
-216e28dd9ac7288969a1fa6e65b3b562 *DESCRIPTION
+15b180208919bc7516f02ed5d40b52dd *DESCRIPTION
 bf3b637506fd80bf15313ff0b340d5b7 *NAMESPACE
-7ea9501248f0a9e38418b0727edf5176 *NEWS.md
+1f9494c31de836307bf2982a7d26f3d3 *NEWS.md
 8794d41e55d35734dc1db6f5f769acdd *R/box_lsp.R
 caafc543243f1622fa3c0a18fdeb5895 *R/utils.R
 071cb189d0aafaf47bbd7441841a245b *README.md
-afc43d0321d680c6549ecee8978b1a9c *inst/Rprofile.R
+a4e9d465ba5809ea6b86cdd9e316e9f5 *inst/Rprofile.R
 588a0bdc3bd51f61549da726ad9e72fe *man/box_use_parser.Rd
 d9b3962e1a8a88b7a3051bc059043215 *man/figures/box.lsp_in_action.gif
 c742fcc9c67d3c91ac0c5d2f089c8221 *man/use_box_lsp.Rd
@@ -12,6 +12,6 @@ c742fcc9c67d3c91ac0c5d2f089c8221 *man/use_box_lsp.Rd
 eec54d4dfc4382ac5e9c0eebebb98bc4 *tests/testthat/helper-utils.R
 8e96e7af1100647acdc05e5569fb2635 *tests/testthat/test-lsp_aaa_regression.R
 01ce6916257aded4bb3de8000e49b2cf *tests/testthat/test-lsp_completion_package_attach_list.R
-b7359bfb42fc6c84f47aff52c07ed56e *tests/testthat/test-lsp_completion_package_three_dots.R
+377905d1d0dbd2ac96c95a4185c45acc *tests/testthat/test-lsp_completion_package_three_dots.R
 e7dc8b8608084bc829f87532c19d8663 *tests/testthat/test-lsp_completion_whole_package.R
 0e5080b4785ac7e30a95ee00c5198e00 *tests/testthat/test-signature.R
